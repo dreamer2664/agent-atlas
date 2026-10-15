@@ -1,0 +1,16 @@
+{
+  "project": "agent-atlas",
+  "source": "https://github.com/dreamer2664/agent-atlas",
+  "agents": {
+    "lookout": {
+      "id": "t-20261015-84d3",
+      "status": "open",
+      "owner": null,
+      "deps": []
+    }
+  },
+  "primary_archive": "dreamer2664/storagecode",
+  "mars": "paused",
+  "credentials": "KIT-DBF340 only in Director private MDs; public templates placeholders",
+  "commission_state": "prepared; future producer not registered/awake/claimed"
+}
